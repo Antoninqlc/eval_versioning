@@ -1,3 +1,51 @@
+commit b09ac9a5e34993c7c703c15d0e9fa1562042e842
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:23:41 2025 +0200
+
+    Revert "add modif pr log"
+    
+    This reverts commit b6884548b3a59bc1f702ac9f789c84234c06ffee.
+
+commit 7006ed386013d88e9a39ace54af036aa2a9fb2f8
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:22:34 2025 +0200
+
+    Revert "conflit :D"
+    
+    This reverts commit 3bf8a86a6049db83df39892ac01f36efe12f71fc, reversing
+    changes made to b8ed0aee3676c7ff5129c6506ffb467af9c7b5bf.
+
+commit b6884548b3a59bc1f702ac9f789c84234c06ffee
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:20:12 2025 +0200
+
+    add modif pr log
+
+commit 3bf8a86a6049db83df39892ac01f36efe12f71fc
+Merge: b8ed0ae 14662f7 32e658c
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:16:00 2025 +0200
+
+    conflit :D
+
+commit 32e658cd0a5b9f6dc9e99038eca117f0f6fb9ac0
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:14:55 2025 +0200
+
+    euh
+
+commit 14662f720a713decc0be3bee233c2d79efea8171
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:14:26 2025 +0200
+
+    branch jej
+
+commit b8ed0aee3676c7ff5129c6506ffb467af9c7b5bf
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:13:41 2025 +0200
+
+    add log
+
 commit 813b5340b450c46161f44d627640558184436f30
 Merge: 3c68e90 9939588
 Author: jejman <ant.qlc@gmail.com>

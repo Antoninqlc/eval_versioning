@@ -18,7 +18,6 @@ function renderBooks() {
     const editBtn = document.createElement('button');
     editBtn.textContent = "Modifier titre";
     editBtn.onclick = () => {
-<<<<<<< .merge_file_gkzw6w
       // Remplace le contenu de la cellule titre par un input et des boutons
       titleTd.innerHTML = '';
       const input = document.createElement('input');
@@ -48,10 +47,6 @@ function renderBooks() {
       actionsTd.appendChild(saveBtn);
       actionsTd.appendChild(cancelBtn);
       editBtn.style.display = 'none';
-=======
-      // Insérer ici le code pour modifier le titre du livre
-      //oula 
->>>>>>> .merge_file_7yL9mE
     };
     actionsTd.appendChild(editBtn);
 
