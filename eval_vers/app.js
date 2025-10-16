@@ -18,6 +18,7 @@ function renderBooks() {
     const editBtn = document.createElement('button');
     editBtn.textContent = "Modifier titre";
     editBtn.onclick = () => {
+<<<<<<< .merge_file_gkzw6w
       // Remplace le contenu de la cellule titre par un input et des boutons
       titleTd.innerHTML = '';
       const input = document.createElement('input');
@@ -33,7 +34,7 @@ function renderBooks() {
           book.title = v;
           renderBooks();
         } else {
-          alert('Le titre ne peut pas être vide.');
+          alert('Le titre ne peut pas être vide. BWAAAAAAAAAA');
         }
       };
       // bablabla je modifie des trucs pour faire le truc av les logs
@@ -47,6 +48,10 @@ function renderBooks() {
       actionsTd.appendChild(saveBtn);
       actionsTd.appendChild(cancelBtn);
       editBtn.style.display = 'none';
+=======
+      // Insérer ici le code pour modifier le titre du livre
+      //oula 
+>>>>>>> .merge_file_7yL9mE
     };
     actionsTd.appendChild(editBtn);
 
