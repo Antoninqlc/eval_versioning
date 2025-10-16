@@ -37,6 +37,7 @@ function renderBooks() {
         }
       };
       // bablabla je modifie des trucs pour faire le truc av les logs
+      // AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
       const cancelBtn = document.createElement('button');
       cancelBtn.textContent = 'Annuler';
       cancelBtn.onclick = () => {
