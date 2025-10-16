@@ -1,3 +1,28 @@
+commit 3bf8a86a6049db83df39892ac01f36efe12f71fc
+Merge: b8ed0ae 14662f7 32e658c
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:16:00 2025 +0200
+
+    conflit :D
+
+commit 32e658cd0a5b9f6dc9e99038eca117f0f6fb9ac0
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:14:55 2025 +0200
+
+    euh
+
+commit 14662f720a713decc0be3bee233c2d79efea8171
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:14:26 2025 +0200
+
+    branch jej
+
+commit b8ed0aee3676c7ff5129c6506ffb467af9c7b5bf
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:13:41 2025 +0200
+
+    add log
+
 commit 813b5340b450c46161f44d627640558184436f30
 Merge: 3c68e90 9939588
 Author: jejman <ant.qlc@gmail.com>
