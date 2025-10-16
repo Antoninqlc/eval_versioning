@@ -1,0 +1,30 @@
+commit 813b5340b450c46161f44d627640558184436f30
+Merge: 3c68e90 9939588
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:05:44 2025 +0200
+
+    add modif
+
+commit 99395885ce8d8481ce2f8a839eb7c166e465a440
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 14:04:35 2025 +0200
+
+    az
+
+commit 3c68e90f8d9a1e48b16084cdf415805f6e27368d
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 13:59:34 2025 +0200
+
+    add in app.js fct modif_titre
+
+commit 9cbb9dd1f21f7e16e2fec917d7b28b94c58ae0f4
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 13:55:02 2025 +0200
+
+    add .gitignore
+
+commit ff65a4681ccf73b8be560eb31d0bb95b4550a495
+Author: jejman <ant.qlc@gmail.com>
+Date:   Thu Oct 16 13:49:27 2025 +0200
+
+    add app, data, index

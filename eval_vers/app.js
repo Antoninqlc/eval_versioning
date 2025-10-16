@@ -36,7 +36,7 @@ function renderBooks() {
           alert('Le titre ne peut pas être vide.');
         }
       };
-
+      // bablabla je modifie des trucs pour faire le truc av les logs
       const cancelBtn = document.createElement('button');
       cancelBtn.textContent = 'Annuler';
       cancelBtn.onclick = () => {
