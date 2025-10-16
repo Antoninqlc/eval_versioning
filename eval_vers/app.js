@@ -33,7 +33,7 @@ function renderBooks() {
           book.title = v;
           renderBooks();
         } else {
-          alert('Le titre ne peut pas être vide. BWAAAAAAAAAA');
+          alert('Le titre ne peut pas être vide.');
         }
       };
       // bablabla je modifie des trucs pour faire le truc av les logs encore
