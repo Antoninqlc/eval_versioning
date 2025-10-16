@@ -18,7 +18,35 @@ function renderBooks() {
     const editBtn = document.createElement('button');
     editBtn.textContent = "Modifier titre";
     editBtn.onclick = () => {
-      // Insérer ici le code pour modifier le titre du livre
+      // Remplace le contenu de la cellule titre par un input et des boutons
+      titleTd.innerHTML = '';
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.value = book.title;
+      titleTd.appendChild(input);
+
+      const saveBtn = document.createElement('button');
+      saveBtn.textContent = 'Enregistrer';
+      saveBtn.onclick = () => {
+        const v = input.value && input.value.trim();
+        if (v) {
+          book.title = v;
+          renderBooks();
+        } else {
+          alert('Le titre ne peut pas être vide.');
+        }
+      };
+
+      const cancelBtn = document.createElement('button');
+      cancelBtn.textContent = 'Annuler';
+      cancelBtn.onclick = () => {
+        renderBooks();
+      };
+
+      // Ajouter les boutons à la cellule actions (et masquer le bouton d'édition)
+      actionsTd.appendChild(saveBtn);
+      actionsTd.appendChild(cancelBtn);
+      editBtn.style.display = 'none';
     };
     actionsTd.appendChild(editBtn);
 
