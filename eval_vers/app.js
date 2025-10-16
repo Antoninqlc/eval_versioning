@@ -33,7 +33,7 @@ function renderBooks() {
           book.title = v;
           renderBooks();
         } else {
-          alert('Le titre ne peut pas être vide.');
+          alert('Le titre ne peut pas être vide. BWAAAAAAAAAA');
         }
       };
 
